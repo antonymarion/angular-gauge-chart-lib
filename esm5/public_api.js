@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of gauge-chart
+ */
+export * from './lib/gauge-chart.component';
+export * from './lib/gauge-chart.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2FuZ3VsYXItZ2F1Z2UtY2hhcnQvIiwic291cmNlcyI6WyJwdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyw2QkFBNkIsQ0FBQTtBQUMzQyxjQUFjLDBCQUEwQixDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBnYXVnZS1jaGFydFxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2dhdWdlLWNoYXJ0LmNvbXBvbmVudCdcbmV4cG9ydCAqIGZyb20gJy4vbGliL2dhdWdlLWNoYXJ0Lm1vZHVsZSdcbiJdfQ==
